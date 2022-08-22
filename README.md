@@ -1,7 +1,7 @@
 # ToDo6_Modelagem_e_Aplicacao_Banco_de_Dados
 ![banner_ilustrativo](https://www.estudopratico.com.br/wp-content/uploads/2015/08/banco-de-dados-1200x675.jpg)
 
-####Um projeto inicial voltado para a introdução dos conceitos sobre PostgresSQL, Banco de dados e sua manipulação.
+####*Um projeto inicial voltado para a introdução dos conceitos sobre PostgresSQL, Banco de dados e sua manipulação.*
 ---
 ### 🎯 **Desafio:**
 > A Resilia está pensando em lançar um novo sistema! Esse sistema servirá para avaliar quais são as tecnologias que as empresas parceiras estão utilizando e quais são os ajustes necessários nas stacks dos cursos.
